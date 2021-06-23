@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oimranpo
 - 👀 I’m interested in Java, Springboot and Vue.JS
-- 🌱 I’m currently learning basic HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on something for beginners
+- 🌱 I’m a tech recruiter that has a genuine interest in coding
+- 💞️ I’m looking to find talent for Moneysupermarket Group and learn basic coding along the way
 - 📫 How to reach me - imran.patel@moneysupermarket.com
 
 <!---
